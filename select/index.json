@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "PARAISO",
+  "base_artist": "ナノ",
+  "createdAt": "2025-12-04T14:53:59.597664Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Costa Paraiso",
+      "artist": "El Guincho",
+      "has_synced": false,
+      "path": "select/01_Costa_Paraiso_El_Guincho.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "O Paraíso",
+      "artist": "Madredeus",
+      "has_synced": true,
+      "path": "select/02_O_Paraíso_Madredeus.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "O Paraíso (Buscemi's Afro Mix)",
+      "artist": "Madredeus",
+      "has_synced": true,
+      "path": "select/03_O_Paraíso_(Buscemi's_Afro_Mix)_Madredeus.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "O Paraíso - Live",
+      "artist": "Madredeus",
+      "has_synced": false,
+      "path": "select/04_O_Paraíso_-_Live_Madredeus.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "O Paraíso (Live)",
+      "artist": "Madredeus",
+      "has_synced": false,
+      "path": "select/05_O_Paraíso_(Live)_Madredeus.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "El Paraiso Rico",
+      "artist": "Deetah",
+      "has_synced": true,
+      "path": "select/06_El_Paraiso_Rico_Deetah.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "El Paraiso Rico",
+      "artist": "Deetah",
+      "has_synced": false,
+      "path": "select/07_El_Paraiso_Rico_Deetah.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Paraíso Perdido",
+      "artist": "Stravaganzza",
+      "has_synced": true,
+      "path": "select/08_Paraíso_Perdido_Stravaganzza.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Destino Paraiso",
+      "artist": "Gianluca Grignani",
+      "has_synced": true,
+      "path": "select/09_Destino_Paraiso_Gianluca_Grignani.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Paraíso",
+      "artist": "La Ley",
+      "has_synced": false,
+      "path": "select/10_Paraíso_La_Ley.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Paraiso",
+      "artist": "Beam & Yanou",
+      "has_synced": false,
+      "path": "select/11_Paraiso_Beam_&_Yanou.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Paraiso (141 Bpm Trance House)",
+      "artist": "Beam & Yanou",
+      "has_synced": false,
+      "path": "select/12_Paraiso_(141_Bpm_Trance_House)_Beam_&_Yanou.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Paraíso Lunar",
+      "artist": "Siddhartha",
+      "has_synced": true,
+      "path": "select/13_Paraíso_Lunar_Siddhartha.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Fuego en el Paraíso",
+      "artist": "Tierra Santa",
+      "has_synced": true,
+      "path": "select/14_Fuego_en_el_Paraíso_Tierra_Santa.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Cruzando el Paraíso",
+      "artist": "Loquillo",
+      "has_synced": true,
+      "path": "select/15_Cruzando_el_Paraíso_Loquillo.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Paraiso",
+      "artist": "Fonseca",
+      "has_synced": true,
+      "path": "select/16_Paraiso_Fonseca.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Perdido en el Paraíso",
+      "artist": "Dünedain",
+      "has_synced": false,
+      "path": "select/17_Perdido_en_el_Paraíso_Dünedain.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Perdido en el Paraíso",
+      "artist": "Tierra Santa",
+      "has_synced": true,
+      "path": "select/18_Perdido_en_el_Paraíso_Tierra_Santa.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "PARAISO",
+      "artist": "ナノ",
+      "has_synced": false,
+      "path": "select/pl_01_PARAISO_ナノ.txt"
+    }
+  ]
+}
